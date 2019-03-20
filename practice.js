@@ -136,7 +136,7 @@ user2.email= 'tyler.mcginnis@devmounta.in'
   Create an empty object called methodCollection.
 */
 
-methodCollection= {
+let methodCollection= {
 
 }
 
@@ -147,7 +147,12 @@ methodCollection= {
   One called 'alertHello' which alerts 'hello' and another method called 'logHello' which logs 'hello' to the console. 
 */
 
-//Code Here
+// methodCollection.alertHello() {
+//   let hello = 'hello'
+//   alert(hello)
+ 
+
+//}
 
 
 

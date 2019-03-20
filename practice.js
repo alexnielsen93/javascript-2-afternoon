@@ -14,8 +14,12 @@
   Then alert your name using dot notation.
 */
 
-//Code here
+me = {
+name : 'Alex Nielsen',
+age : 25,
 
+}
+alert(me.name)
 
 
 ////////// PROBLEM 2 //////////

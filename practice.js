@@ -29,15 +29,22 @@ alert(me.name)
   Have the values to those keys be your favorite thing in that category.
 */
 
-//Code here
-
+favoriteThings = {
+  band: 'MUSE',
+  food: 'Pizza',
+  person: 'Jess',
+  book: 'Oathbringer',
+  movie: 'The Empire Strikes Back',
+  holiday: '4th of July'
+}
 
 
 /*
   After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
 */
 
-//Code here
+favoriteThings.car = 'Porsche 911'
+favoriteThings.brand = 'Underarmor'
 
 
 
@@ -45,8 +52,8 @@ alert(me.name)
   Now change the value of the food key in your favoriteThings object to be 'Chicken Nuggets' and change the value of the book key in your favoriteThings object to be 'Harry Potter'.
 */
 
-//Code here
-
+favoriteThings.food = 'Chicken Nuggets'
+favoriteThings.book = 'Harry Potter'
 
 
 ////////// PROBLEM 3 //////////

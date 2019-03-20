@@ -112,7 +112,8 @@ var user2 = {
   Make that change without modifying the original object code above.
 */
 
-//Code Here
+user2.name = 'Tyler S. McGinnis'
+user2.email= 'tyler.mcginnis@devmounta.in'
 
 
 
@@ -135,7 +136,9 @@ var user2 = {
   Create an empty object called methodCollection.
 */
 
-//Code Here
+methodCollection= {
+
+}
 
 
 

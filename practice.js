@@ -66,15 +66,20 @@ favoriteThings.book = 'Harry Potter'
   Using dot notation, add another key (or property) to your backPack object that is named color, with the value being the color of your backpack. 
 */
 
-//Code here
+backPack = {
 
+
+}
+item = 'firstPocket'
+backPack[item] = 'chapstick'
+backPack['color'] = 'blue'
 
 
 /*
   After you do the above, alert your entire backPack object.
 */
 
-//Code here
+alert(backPack)
 
 
 
